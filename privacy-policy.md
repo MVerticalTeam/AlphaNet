@@ -6,7 +6,7 @@ ALPHA NET takes your privacy seriously. This privacy policy explains how your pe
 
 This app does not collect, use, or share any information or cookies.
 
-However, if the user voluntarily provides personal information when creating a network account or when contacting us, we may store the following data:
+However, if the user voluntarily provides personal information when creating a network account when contacting us, we may store the following data:
 
 - **Name**
 - **Email**
