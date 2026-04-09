@@ -1,28 +1,28 @@
-# Privacy Policy - شبكة ألفا
+#  شبكة ألفا - سياسة الخصوصية
 
-We takes your privacy seriously. This privacy policy explains how your personal information is collected and used.
+نولي خصوصيتك أهمية كبيرة. توضح سياسة الخصوصية هذه كيفية جمع معلوماتك الشخصية واستخدامها.
 
-## Collection of Information and Cookies
+## جمع المعلومات وملفات تعريف الارتباط (Cookies)
 
-This app does not collect, use, or share any information or cookies.
+لا يقوم هذا التطبيق بجمع أو استخدام أو مشاركة أي بيانات أو ملفات تعريف الارتباط.
 
-However, if the user voluntarily provides personal information when creating a network account when contacting us, we may store the following data:
+ومع ذلك، إذا قام المستخدم بتقديم معلومات شخصية طوعًا عند إنشاء حساب شبكة أو عند التواصل معنا، فقد نقوم بتخزين البيانات التالية:
 
-- **Name**
-- **Email**
-- **Address**
-- **Phone number**
+- **الاسم**
+- **البريد الإلكتروني**
+- **العنوان**
+- **رقم الهاتف**
 
-This information is **not shared with any third parties** and is used solely to identify and recognize the user when providing support or account-related services.
+لا تتم **مشاركة هذه المعلومات مع أي جهات خارجية**، وتُستخدم فقط للتعرّف على المستخدم وتقديم الدعم أو الخدمات المتعلقة بالحساب.
 
-## Changes To This Privacy Policy
+## التغييرات على سياسة الخصوصية
 
-This Privacy Policy is effective as of **08/04/2026** and will remain in effect until updated. Any changes will take effect immediately after being posted on this page.
+تسري هذه السياسة اعتبارًا من **09/04/2026** وستظل سارية حتى يتم تحديثها. تسري أي تعديلات فور نشرها على هذه الصفحة.
 
-We reserve the right to update or change this Privacy Policy at any time. You should review this Privacy Policy periodically. If any material changes are made, we will notify you by placing a prominent notice in our app.
+نحتفظ بالحق في تحديث أو تعديل سياسة الخصوصية هذه في أي وقت. يجب عليك مراجعة هذه السياسة بشكل دوري. وإذا تم إجراء أي تغييرات جوهرية، فسنقوم بإشعارك من خلال وضع تنبيه واضح داخل التطبيق.
 
-## Contact Information
+## معلومات الاتصال
 
-For any questions or concerns regarding this Privacy Policy, please contact us at:
+لأي استفسارات أو ملاحظات بشأن سياسة الخصوصية، يرجى التواصل معنا عبر البريد التالي:
 
 **mhmd.al3moudi@gmail.com**
