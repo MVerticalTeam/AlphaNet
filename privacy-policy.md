@@ -1,6 +1,6 @@
-# Privacy Policy
+# Privacy Policy - شبكة ألفا
 
-ALPHA NET takes your privacy seriously. This privacy policy explains how your personal information is collected and used.
+We takes your privacy seriously. This privacy policy explains how your personal information is collected and used.
 
 ## Collection of Information and Cookies
 
